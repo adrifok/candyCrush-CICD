@@ -2,7 +2,7 @@
 FROM node:16
 
 # Set the maintainer information
-LABEL maintainer="mrcloudbook postbox.aj99@gmail.com"
+LABEL maintainer="adrifok@gmail.com"
 
 # Set the working directory in the container
 WORKDIR /app
